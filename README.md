@@ -8,4 +8,4 @@
 
 3.Whatsapp Automation Using Python
 
-4. QR-Code Generator
+4.QR-Code Generator
