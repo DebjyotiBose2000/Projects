@@ -7,3 +7,5 @@
 2.Audio Book Making Using Python
 
 3.Whatsapp Automation Using Python
+
+4. QR-Code Generator
